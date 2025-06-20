@@ -1,6 +1,4 @@
-﻿**Mateo Rodriguez Suar - C15**
-
-**Trabajo Práctico: Linux Fundamentals Part 1**
+** Linux Fundamentals Part 1**
 
 **Tarea 1: Introduccion**
 
