@@ -6,7 +6,7 @@ Bienvenido a mi repositorio de write-ups de ciberseguridad.
 
 - [TryHackMe](./TryHackMe)
 - [HackTheBox](./HackTheBox)
-- [VulnHub](./Vulnhub)
+- [VulnHub](./VulnHub)
   
 ## Contacto
 
