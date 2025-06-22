@@ -1,4 +1,4 @@
-# Write-ups de CTF - Mateo Rodríguez Suar
+# Write-Ups de CTF - Mateo Rodríguez Suar
 
 Bienvenido a mi repositorio de write-ups de ciberseguridad.
 
